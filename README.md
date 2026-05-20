@@ -231,3 +231,59 @@ This project is developed for educational and research purposes.
 # ⭐ GitHub
 
 If you like this project, give it a ⭐ on GitHub!
+# 📸 Project Screenshots
+
+## 🚦 Main Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+---
+
+## 📊 Analytics Live Graphs
+![Analytics](screenshots/Analytics_Live_Graphs.png)
+
+---
+
+## 🧠 Nine Algorithm Insights
+![Algorithms](screenshots/Nine_Algorithm_insights.png)
+
+---
+
+## 🤖 AI LLM Chatbot Assistant
+![AI Assistant](screenshots/AI_LLM_chatbot_assistant.png)
+
+---
+
+## 🚗 Fourway Live Intersection
+![Intersection](screenshots/Fourway_live_intersection.png)
+
+---
+
+## 📹 Fourway Camera Setup
+![Camera Setup](screenshots/Fourway_camera_setup.png)
+
+---
+
+## 📲 Telegram Alerts
+![Telegram](screenshots/Telegram_alerts.png)
+
+---
+
+## 👮 Police Dashboard
+![Police Dashboard](screenshots/Police_dashboard.png)
+
+---
+
+## 📊 Live Intersection CSV Export
+![CSV Export](screenshots/Live_intersection_csv_export.png)
+
+---
+
+## 📄 Live Intersection PDF Report
+![PDF Report](screenshots/Live_intersection_pdf_report.png)
+
+---
+
+## 📄 Live PDF Report Generating
+![PDF Generating](screenshots/Live_Pdf_report_Genreateing.png)
+
+
