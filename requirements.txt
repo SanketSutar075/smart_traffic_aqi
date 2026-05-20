@@ -1,0 +1,17 @@
+# TrafficIQ v3.0 — Smart Traffic + Deep Learning Showcase
+# Install: pip install -r requirements.txt
+
+streamlit>=1.35.0
+opencv-python>=4.9.0
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+Pillow>=10.3.0
+
+# ML algorithms (KNN, KMeans, Random Forest)
+scikit-learn>=1.4.0
+
+# YOLOv8 deep learning (downloads yolov8n.pt ~6MB on first run)
+ultralytics>=8.2.0
+torch>=2.2.0
+torchvision>=0.17.0
