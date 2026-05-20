@@ -1,5 +1,5 @@
 # 🚦 TrafficIQ v9.0  
-## AI-Based Smart Traffic Management & AQI Prediction System
+## AI-Based Smart Traffic Signaling and Air Pollution Index Prediction Using Machine Learning & Deep Learning
 
 TrafficIQ is an AI-powered Smart Traffic Management System that combines Computer Vision, Machine Learning, Deep Learning, and AQI Prediction to optimize traffic signals in real-time.
 
