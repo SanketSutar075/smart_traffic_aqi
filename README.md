@@ -177,17 +177,6 @@ python FourWay.py
 - Adaptive Traffic Signals
 - Smart Intersection Systems
 - Emergency Vehicle Management
-
----
-
-# 📘 Project Report
-
-Complete Project Documentation included in:
-
-```text
-reports/TrafficIQ_Project_Report.pdf
-```
-
 ---
 
 # 🎓 Academic Information
