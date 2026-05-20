@@ -86,8 +86,6 @@ This module focuses on:
 - SHAP Explainability
 - Voice AI
 - Dashboard Monitoring
-- Telegram Alerts
-
 ---
 
 # 🚦 FourWay.py
@@ -99,6 +97,8 @@ This module focuses on:
 - OD Matrix Analysis
 - Real-Time Signal Control
 - Multi-Road Vehicle Monitoring
+- Live Telegram Alerts
+
 
 ---
 
