@@ -254,7 +254,7 @@ If you like this project, give it a ⭐ on GitHub!
 ---
 
 ## 🚗 Fourway Live Intersection
-![Intersection](screenshots/Fourway_live_intersection.jpg)
+![Intersection](screenshots/Fourway_live_intersection.jpeg)
 
 ---
 
