@@ -234,7 +234,7 @@ If you like this project, give it a ⭐ on GitHub!
 # 📸 Project Screenshots
 
 ## 🚦 Main Dashboard
-![Dashboard](screenshots/Dashboard.jpg)
+![Dashboard](screenshots/Dashboard.jpeg)
 
 ---
 
